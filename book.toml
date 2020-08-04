@@ -1,0 +1,11 @@
+[book]
+title = "UX Reference"
+author = "Sumanas Sarma"
+description = "This book is a reference for UX (User eXperience) applied to user interface design"
+language = "en"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+
+
